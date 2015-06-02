@@ -1,0 +1,5 @@
+pyvirtualdisplay
+selenium
+redis
+jsonpickle
+xvfbwrapper
